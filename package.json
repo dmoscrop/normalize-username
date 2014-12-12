@@ -1,0 +1,13 @@
+{
+  "name": "normalize-username",
+  "version": "1.0.0",
+  "description": "Normalize and case fold a string",
+  "main": "index.js",
+  "author": "Doug Moscrop <doug.moscrop@gmail.com>",
+  "repository": "https://github.com/dmoscrop/normalize-username.git",
+  "license": "MIT",
+  "dependencies": {
+    "fold-case": "^1.0.0",
+    "unorm": "^1.3.3"
+  }
+}
